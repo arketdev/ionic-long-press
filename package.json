@@ -13,9 +13,9 @@
     "build": "ng-packagr -p ng-package.json"
   },
   "peerDependencies": {
-    "@ionic/angular": "^6.0.0",
-    "@types/hammerjs": "^2.0.0",
-    "hammerjs": "^2.0.0"
+    "@ionic/angular": "^8.2.7",
+    "@types/hammerjs": "^2.0.8",
+    "hammerjs": "^2.0.8"
   },
   "author": "Wilson Hobbs",
   "license": "MIT",
